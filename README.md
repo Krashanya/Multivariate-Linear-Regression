@@ -41,7 +41,8 @@ desired application or platform
 ## Output:
 
 ###
-<img width="730" height="142" alt="image" src="https://github.com/user-attachments/assets/f7d1a5ae-1a9b-48d0-95e6-2c590406e07c" />
+<img width="707" height="106" alt="image" src="https://github.com/user-attachments/assets/0499b45b-36a7-407a-beb0-054b96858b19" />
+
 
 
 <br>
