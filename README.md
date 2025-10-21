@@ -28,9 +28,9 @@ desired application or platform
 <br>
 
 ## Program:
-```
-<img width="621" height="243" alt="image" src="https://github.com/user-attachments/assets/01452d20-6170-4a97-8502-ba40ac461bba" />
+<img width="609" height="249" alt="image" src="https://github.com/user-attachments/assets/b3256f97-e060-4ca1-b099-d459f4baafc9" />
 
+```
 
 
 
