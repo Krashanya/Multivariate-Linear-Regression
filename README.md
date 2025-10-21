@@ -28,6 +28,7 @@ desired application or platform
 <br>
 
 ## Program:
+```
 import pandas as pd
 from sklearn import linear_model
 df = pd.read_csv("C:\\Users\\admin\\Downloads\\car.csv")
@@ -39,7 +40,6 @@ print('Coefficients:', regr.coef_)
 print('Intercept:',regr.intercept_)
 predictedCO2 = regr.predict([[3300, 1300]])
 print('Predicted CO2 for the corresponding weight and volume',predictedCO2)
-```
 
 
 
